@@ -1,0 +1,67 @@
+/*
+	#b1f9b8;
+	#95e780;
+	#2cc93c;
+	#26a034;
+	#009275;
+*/
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+/*estilo navbar*/
+.navbar
+{
+	background-color: #95e780;
+	border: none;
+	height: 8em;
+	padding: 1.5em;
+}
+
+/*Estilo de etiqueta a*/
+.navbar a
+{
+	color: white;
+}
+
+.btn-info
+{
+	margin-left: 5em;
+}
+
+.modal-content
+{
+	padding: 20px;
+	text-align: center;
+}
+
+input
+{
+	margin: 10px;
+	border: none;
+	border-bottom: 1px solid #ccc;
+	outline: none;
+}
+
+.modal-header 
+{
+  border-bottom: none;
+}
+
+.modal-footer 
+{
+  border-top: none;
+}
+
+.saveBtn
+{
+	background-color: #26a034;
+	color: white;
+}
+
+
+
+
